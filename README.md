@@ -1,4 +1,7 @@
 # 💫 About Me:
+Hey, my name is Farhan Kashif and Welcome to my Profile
+Some things about me:
+
 🔭 I’m currently working on Web Development.<br>👯 I’m looking to collaborate on Web Development Projects.<br>🌱 I’m currently learning React Redux, MERN and Stack.<br>⚡ Road to Full Stack Developer.<br>💬 Contact me here at farhan14711@gmail.com<br>
 
 
